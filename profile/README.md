@@ -16,7 +16,7 @@
 | Fahrul Zaman                               | GLNG-KS07-06  | [LinkedIn](https://www.linkedin.com/in/fhrlzmn/)        | 
 | Patrick Gustavo Bravy Walujan              | GLNG-KS07-03  | [LinkedIn](https://www.linkedin.com/in/patrickgustavo/) |
 | Zeni Fitri Adibatus Salamah                | GLNG-KS07-022 | -                                                       |
-| Sultan Maulana Akbar Djuandadesta          | GLNG-KS07-03  | -                                                       |
+| Sultan Maulana Akbar Djuandadesta          | GLNG-KS07-07  | -                                                       |
 
 ## Thank You
 
